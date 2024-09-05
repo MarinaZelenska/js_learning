@@ -36,7 +36,3 @@ var services = {
         return `${maxPrice} грн`;
     }
 }
-
-console.log(services.price())
-console.log(services.maxPrice())
-console.log(services.minPrice())
